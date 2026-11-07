@@ -1,0 +1,5 @@
+recordings/
+sample/
+__pycache__/
+*.pyc
+.env
